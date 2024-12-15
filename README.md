@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aizo2-0
-- 👀 I’m interested in Anime, Cheerleading, Music, Programming, Reading and Travels.
+- 👀 I’m interested in Anime, Cheerleading, Piano, Programming, Reading, Slam and Travels.
 - 🌱 I’m currently learning to code in C, JAVA and HTLM.
 - 💞️ I’m looking to collaborate on projects in the field of Network Security, Incident Response and generally Cybersecurity to get more experiences. 
 - 📫 How to reach me : mdasaizonou06@gmail.com (E-mail) or Mahuna Daphnée Assial SAIZONOU (on LinkedIn)
